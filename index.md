@@ -1,5 +1,8 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my statistics blog"
 ---
+In this blog, I discuss some probability theory, statistics, and sports analytics. 
 
-I'm glad you are here. I plan to talk about ...
+Hope you enjoy!
+
+
